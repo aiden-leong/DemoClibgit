@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Clibgit",
+        "repositoryURL": "https://github.com/andy1247008998/Clibgit.git",
+        "state": {
+          "branch": null,
+          "revision": "ae8bc2dc13edc2c50fb9dd0e0f1b96dfb14cfc29",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
